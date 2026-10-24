@@ -65,7 +65,7 @@ Calculation:
 
 Open circuit characteristics
 
-<img width="722" height="582" alt="WhatsApp Image 2026-10-24 at 13 52 01" src="https://github.com/user-attachments/assets/ab164ebe-7965-4df1-b411-1cd7228b703e" />
+<img width="752" height="666" alt="WhatsApp Image 2026-10-24 at 13 52 43" src="https://github.com/user-attachments/assets/345d2e58-b0d0-48bd-9fe7-2d19e713e111" />
 
 Load Characteristics:
 
