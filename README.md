@@ -57,9 +57,9 @@ Tabulation for Load Test:
 
 Model graph:
 
-<img width="1406" height="508" alt="WhatsApp Image 2026-10-24 at 13 12 14" src="https://github.com/user-attachments/assets/ecf1c71d-16e8-479e-a17c-8d2f06171251" />
-
 <img width="642" height="316" alt="WhatsApp Image 2026-10-24 at 13 12 14 (1)" src="https://github.com/user-attachments/assets/c5f0a318-8a9a-416a-b42b-1c7d03934ff4" />
+
+<img width="1406" height="508" alt="WhatsApp Image 2026-10-24 at 13 12 14" src="https://github.com/user-attachments/assets/ecf1c71d-16e8-479e-a17c-8d2f06171251" />
 
 Calculation: 
 
