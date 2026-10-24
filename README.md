@@ -49,11 +49,11 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test:
 
-<img width="1536" height="414" alt="WhatsApp Image 2026-10-24 at 12 00 31 (1)" src="https://github.com/user-attachments/assets/1c662c22-1f85-45f1-b4be-1b9beec2265d" />
+<img width="1536" height="398" alt="WhatsApp Image 2026-10-24 at 12 00 31" src="https://github.com/user-attachments/assets/d2dffdd6-9611-464a-be38-cb0464f2493a" />
 
 Tabulation for Load Test:
 
-<img width="1536" height="398" alt="WhatsApp Image 2026-10-24 at 12 00 31" src="https://github.com/user-attachments/assets/d2dffdd6-9611-464a-be38-cb0464f2493a" />
+<img width="1536" height="414" alt="WhatsApp Image 2026-10-24 at 12 00 31 (1)" src="https://github.com/user-attachments/assets/1c662c22-1f85-45f1-b4be-1b9beec2265d" />
 
 Model graph:
 
