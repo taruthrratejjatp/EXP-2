@@ -69,7 +69,7 @@ Open circuit characteristics
 
 Load Characteristics:
 
-<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/17e7037a-9ecb-4bc4-b9fc-b3efa324e6f2" />
- 
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/b0e120f3-f98c-4c6c-9102-c5892d9ec17c" />
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
